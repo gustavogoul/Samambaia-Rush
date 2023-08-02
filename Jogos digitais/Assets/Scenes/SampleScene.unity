@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 105081529}
   m_Layer: 0
   m_Name: Lixeira (4)
-  m_TagString: Untagged
+  m_TagString: obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -197,7 +197,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 042c669bff3511e4389097a5d4ae9217, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e2389f88aa116c046a1d1b2cff9312b2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -5233,7 +5233,7 @@ GameObject:
   - component: {fileID: 757750587}
   m_Layer: 0
   m_Name: Hidrante (1)
-  m_TagString: Untagged
+  m_TagString: obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5344,7 +5344,7 @@ GameObject:
   - component: {fileID: 777805513}
   m_Layer: 0
   m_Name: PlacaS (2)
-  m_TagString: Untagged
+  m_TagString: obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5544,7 +5544,7 @@ GameObject:
   - component: {fileID: 845783136}
   m_Layer: 0
   m_Name: Hidrante (3)
-  m_TagString: Untagged
+  m_TagString: obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5655,7 +5655,7 @@ GameObject:
   - component: {fileID: 873214700}
   m_Layer: 0
   m_Name: PlacaE
-  m_TagString: Untagged
+  m_TagString: obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5833,9 +5833,10 @@ GameObject:
   - component: {fileID: 907406118}
   - component: {fileID: 907406117}
   - component: {fileID: 907406119}
+  - component: {fileID: 907406120}
   m_Layer: 0
   m_Name: ChaoFalso
-  m_TagString: Untagged
+  m_TagString: fakeGround
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6990,6 +6991,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 46.97975, y: 3.728012}
   m_EdgeRadius: 0
+--- !u!114 &907406120
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 907406115}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5062310ad47935442860dfcdd873581a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &993425242
 GameObject:
   m_ObjectHideFlags: 0
@@ -7048,7 +7061,7 @@ GameObject:
   - component: {fileID: 1008633855}
   m_Layer: 0
   m_Name: PlacaE (1)
-  m_TagString: Untagged
+  m_TagString: obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7159,7 +7172,7 @@ GameObject:
   - component: {fileID: 1031428444}
   m_Layer: 0
   m_Name: PlacaE (2)
-  m_TagString: Untagged
+  m_TagString: obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7270,7 +7283,7 @@ GameObject:
   - component: {fileID: 1095584708}
   m_Layer: 0
   m_Name: Hidrante
-  m_TagString: Untagged
+  m_TagString: obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7283,7 +7296,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1095584704}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -77.63, y: 0.100000024, z: 0.39183772}
+  m_LocalPosition: {x: -77.61, y: 0.18, z: 0.39183772}
   m_LocalScale: {x: 3, y: 3, z: 2.0607}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7381,7 +7394,7 @@ GameObject:
   - component: {fileID: 1178180794}
   m_Layer: 0
   m_Name: PlacaS (1)
-  m_TagString: Untagged
+  m_TagString: obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7756,7 +7769,7 @@ GameObject:
   - component: {fileID: 1421069301}
   m_Layer: 0
   m_Name: Lixeira (2)
-  m_TagString: Untagged
+  m_TagString: obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7817,7 +7830,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 042c669bff3511e4389097a5d4ae9217, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e2389f88aa116c046a1d1b2cff9312b2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -7977,7 +7990,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1583960464}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 8.26, y: -1.65, z: 0}
+  m_LocalPosition: {x: 4.82, y: -1.91, z: 0}
   m_LocalScale: {x: 6, y: 6, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8120,7 +8133,7 @@ GameObject:
   - component: {fileID: 1994784204}
   m_Layer: 0
   m_Name: Lixeira
-  m_TagString: Untagged
+  m_TagString: obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8166,7 +8179,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 042c669bff3511e4389097a5d4ae9217, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e2389f88aa116c046a1d1b2cff9312b2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -8231,7 +8244,7 @@ GameObject:
   - component: {fileID: 2010497505}
   m_Layer: 0
   m_Name: Hidrante (2)
-  m_TagString: Untagged
+  m_TagString: obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8342,7 +8355,7 @@ GameObject:
   - component: {fileID: 2022331227}
   m_Layer: 0
   m_Name: Lixeira (3)
-  m_TagString: Untagged
+  m_TagString: obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8403,7 +8416,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 042c669bff3511e4389097a5d4ae9217, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e2389f88aa116c046a1d1b2cff9312b2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -8499,7 +8512,7 @@ GameObject:
   - component: {fileID: 2124655837}
   m_Layer: 0
   m_Name: Lixeira (1)
-  m_TagString: Untagged
+  m_TagString: obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8512,7 +8525,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2124655833}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -71.98, y: 0.44000006, z: 0.39183772}
+  m_LocalPosition: {x: -71.98, y: 0.48, z: 0.39183772}
   m_LocalScale: {x: 3, y: 3, z: 2.0607}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8560,7 +8573,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 042c669bff3511e4389097a5d4ae9217, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e2389f88aa116c046a1d1b2cff9312b2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
