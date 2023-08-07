@@ -9,6 +9,7 @@ TagManager:
   - fakeGround
   - Ground
   - Wall
+  - Logic
   layers:
   - Default
   - TransparentFX
