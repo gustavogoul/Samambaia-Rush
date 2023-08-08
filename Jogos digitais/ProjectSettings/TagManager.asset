@@ -9,6 +9,7 @@ TagManager:
   - fakeGround
   - Ground
   - Wall
+  - DashRefill
   layers:
   - Default
   - TransparentFX
@@ -20,7 +21,7 @@ TagManager:
   - Background
   - Character
   - Wall
-  - 
+  - DashRefill
   - 
   - 
   - 

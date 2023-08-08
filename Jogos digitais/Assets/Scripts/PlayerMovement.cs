@@ -47,7 +47,7 @@ public class PlayerMovement : MonoBehaviour
     private readonly Collider[] _rightWall = new Collider[1];
     
     [Header("Wall Slide Variables")]
-    [SerializeField] private float _slideSpeed = 6;
+    [SerializeField] private float _slideSpeed = 6.0f;
     [SerializeField] private bool _wallSliding;
 
     [Header("Wall Grab")] 
@@ -343,5 +343,17 @@ public class PlayerMovement : MonoBehaviour
     private bool TouchingWalls()
     {
         return IsWallToLeft() && IsWallToRight() ? true : false;
+    }
+
+    public void RefreshDash(){
+        _hasDashed = false;
+    }
+    
+    public bool HasDash(){
+        return _hasDashed;
+    }
+    
+    public bool IsDashing(){
+        return _dashing;
     }
 }
