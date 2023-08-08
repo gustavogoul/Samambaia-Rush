@@ -9,7 +9,11 @@ TagManager:
   - fakeGround
   - Ground
   - Wall
+<<<<<<< HEAD
   - DashRefill
+=======
+  - Logic
+>>>>>>> 10140a69c9aaceacb4172ce0011d9f91f70f469e
   layers:
   - Default
   - TransparentFX
