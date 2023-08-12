@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 74418475}
   - component: {fileID: 74418474}
   - component: {fileID: 74418473}
-  m_Layer: 9
+  m_Layer: 4
   m_Name: Wall
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -883,10 +883,10 @@ MonoBehaviour:
   _currentMovementLerpSpeed: 100
   _groundLayer:
     serializedVersion: 2
-    m_Bits: 576
+    m_Bits: 704
   _wallLayer:
     serializedVersion: 2
-    m_Bits: 512
+    m_Bits: 640
   _jumpForce: 23
   _fallMultiplier: 7
   _jumpVelocityFalloff: 7

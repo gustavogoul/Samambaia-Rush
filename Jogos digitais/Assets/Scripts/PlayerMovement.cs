@@ -34,7 +34,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Transform _jumpLaunchPoof;
 
     [Header("Ground Collision Variables")]
-    private bool _onGround;
+    [SerializeField] private bool _onGround;
     private bool IsGrounded;
     private LayerMask _groundMask;
     [SerializeField] private float _grounderOffset = -1, _grounderRadius = 0.2f;
@@ -124,6 +124,9 @@ public class PlayerMovement : MonoBehaviour
             _hasDashed = false;
             _hangTimeCounter = _hangTime;
         }
+        
+        _anim.SetBool("isClimbing", _grabbing && !isGrounded());
+        _anim.SetBool("isClimbSliding", _grabbing && !isGrounded() && _rb.velocity.y < 0);
     }
 
     private static Vector2 GetInput()
@@ -299,8 +302,8 @@ public class PlayerMovement : MonoBehaviour
     private bool isGrounded()
     {
         RaycastHit2D raycastHit = Physics2D.BoxCast(boxCollider.bounds.center, boxCollider.bounds.size, 0, Vector2.down, 0.1f, _groundLayer);
-        _onGround = raycastHit;
-        return raycastHit.collider != null;
+        _onGround = raycastHit.collider != null;
+        return _onGround;
     }
 
     private void MoveCharacter()
