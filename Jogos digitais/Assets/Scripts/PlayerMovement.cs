@@ -98,7 +98,7 @@ public class PlayerMovement : MonoBehaviour
         _verticalDirection = GetInput().y;
         _horizontalRawDirection = (int) Input.GetAxisRaw("Horizontal");
         _verticalRawDirection = (int) Input.GetAxisRaw("Vertical");
-       
+        HandleDashing();  
     }
 
     private void FixedUpdate()
@@ -182,13 +182,15 @@ public class PlayerMovement : MonoBehaviour
     private bool IsWallToLeft()
     {
         RaycastHit2D raycastHit = Physics2D.BoxCast(boxCollider.bounds.center, boxCollider.bounds.size, 0, Vector2.left, _wallCheckRadius, _wallLayer);
-        return raycastHit.collider != null;
+        bool scaleX = transform.localScale.x < 0;
+        return raycastHit.collider != null && scaleX;
     }
 
     private bool IsWallToRight()
     {
         RaycastHit2D raycastHit = Physics2D.BoxCast(boxCollider.bounds.center, boxCollider.bounds.size, 0, Vector2.right, _wallCheckRadius, _wallLayer);
-        return raycastHit.collider != null;
+        bool scaleX = transform.localScale.x > 0;
+        return raycastHit.collider != null && scaleX;
     }
     
     private void HandleCoyotte()
@@ -244,7 +246,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void HandleDashing() 
     {
-        if (Input.GetButton("Dash") && !_hasDashed) {
+        if (Input.GetButtonDown("Dash") && !_hasDashed) {
             _dashDir = new Vector3(_horizontalRawDirection, _verticalRawDirection).normalized;
             if (_dashDir == Vector3.zero) _dashDir = _facingLeft ? Vector2.left : Vector2.right;
             _dashing = true;
@@ -301,7 +303,7 @@ public class PlayerMovement : MonoBehaviour
 
     private bool isGrounded()
     {
-        RaycastHit2D raycastHit = Physics2D.BoxCast(boxCollider.bounds.center, boxCollider.bounds.size, 0, Vector2.down, 0.1f, _groundLayer);
+        RaycastHit2D raycastHit = Physics2D.BoxCast(boxCollider.bounds.center, boxCollider.bounds.size, 0, Vector2.down, 0.03f, _groundLayer);
         _onGround = raycastHit.collider != null;
         return _onGround;
     }

@@ -31,7 +31,7 @@ public class cokeRefill : MonoBehaviour
     {
         player = collision.GetComponent<PlayerMovement>();
 
-        if (player != null && !_anim.GetBool("isInnactive") && player.HasDash() && !player.IsDashing())
+        if (player != null && !_anim.GetBool("isInnactive") && player.HasDash())
         {
             player.RefreshDash();
             _anim.SetBool("isInnactive", true);
