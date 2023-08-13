@@ -88,7 +88,7 @@ public class PlayerMovement : MonoBehaviour
         objectScale = transform.localScale;
         boxCollider = GetComponent<BoxCollider2D>();
         _anim = GetComponent<Animator>();
-        _groundLayer = LayerMask.GetMask("Ground");
+        _groundLayer = LayerMask.GetMask("Ground", "Wall");
         _wallLayer = LayerMask.GetMask("Wall");
     }
 
