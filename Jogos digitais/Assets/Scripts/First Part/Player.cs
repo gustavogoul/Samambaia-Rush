@@ -45,6 +45,11 @@ public class Player : MonoBehaviour
         }
     }
 
+    public void OnTriggerEnter2D(Collider2D collider)
+    {
+        SceneManager.LoadScene("LEVEL_01");
+    }
+
     public void RestartGame()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
