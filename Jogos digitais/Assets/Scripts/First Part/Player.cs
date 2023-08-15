@@ -16,8 +16,6 @@ public class Player : MonoBehaviour
     public GameObject gameOverScreen;
     public bool gameOver = false;
 
-    public Animator animacao;
-
     private void Awake()
     {
         character = GetComponent<Rigidbody2D>();
@@ -44,8 +42,6 @@ public class Player : MonoBehaviour
         {
             gameOverScreen.SetActive(true);
             gameOver = true;
-            animacao = GetComponent<Animator>();
-            animacao.Play("Idle");
         }
     }
 
