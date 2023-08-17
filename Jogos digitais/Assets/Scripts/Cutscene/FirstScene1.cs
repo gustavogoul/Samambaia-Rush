@@ -10,12 +10,13 @@ public class FirstScene : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        keyPressed = GetComponent<AudioSource>();
+        
     }
 
     // Update is called once per frame
     void Update()
     {
+        keyPressed = GetComponent<AudioSource>();
         if (Input.anyKey)
         {
             SceneManager.LoadScene("ParteInicial");
