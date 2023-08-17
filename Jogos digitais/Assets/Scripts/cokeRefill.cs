@@ -7,6 +7,7 @@ public class cokeRefill : MonoBehaviour
     private bool isTimerActive = false;
     private float timerDuration = 4.0f;
     private float timer;
+    
     private PlayerMovement player;
 
     private void Start()
