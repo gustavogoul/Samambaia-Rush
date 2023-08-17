@@ -33,7 +33,6 @@ public class Spikes : MonoBehaviour
 
     private void Teleport()
     {
-        Debug.Log("Encostou");
         player.setPos(destination);
     }
 }
