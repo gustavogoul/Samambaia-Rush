@@ -15,10 +15,12 @@ public class Player : MonoBehaviour
 
     public GameObject gameOverScreen;
     public bool gameOver = false;
+    public AudioSource jumpSound;
 
     private void Awake()
     {
         character = GetComponent<Rigidbody2D>();
+        jumpSound = GetComponent<AudioSource>();
     }
 
     private void FixedUpdate()
@@ -28,6 +30,7 @@ public class Player : MonoBehaviour
         if (isGrounded && Input.GetButton("Jump") && gameOver == false)
         {
             character.velocity = Vector2.up * jumpForce;
+            jumpSound.Play();
         }
     }
 
