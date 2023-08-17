@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Spikes : MonoBehaviour
 {
-    [SerializeField] private Transform destination;
+    private Transform _destination;
     [SerializeField] private PlayerMovement player;
     LayerMask _spikeLayer;
     private bool _touched;
@@ -10,11 +10,17 @@ public class Spikes : MonoBehaviour
     private void Start()
     {
         _spikeLayer = LayerMask.GetMask("Spike");
+        _destination = GameObject.Find("Respawn").transform;
     }
 
     private void FixedUpdate() 
     {
         HandleTouch();
+    }
+
+    public void setNewDestination(Transform destination)
+    {
+        _destination = destination;
     }
 
     private void HandleTouch()
@@ -33,6 +39,6 @@ public class Spikes : MonoBehaviour
 
     private void Teleport()
     {
-        player.setPos(destination);
+        player.setPos(_destination);
     }
 }
