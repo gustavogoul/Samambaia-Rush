@@ -116,15 +116,15 @@ public class PlayerMovement : MonoBehaviour
         {
             _hangTimeCounter -= Time.deltaTime;
             // _anim.SetBool("isJumpingUp", _rb.velocity.y > 0 && !isGrounded() && !_grabbing);
-            if(_rb.velocity.y > 0 && !isGrounded() && !_grabbing && _hasJumped) _anim.SetTrigger("isJumpingUpTrigger");
-            _anim.SetBool("isJumpingDown", _rb.velocity.y < 0 && !isGrounded() && !_grabbing);
+            // if(_rb.velocity.y > 0 && !isGrounded() && !_grabbing && _hasJumped) _anim.SetTrigger("isJumpingUpTrigger");
+            _anim.SetBool("isJumpingDown", _rb.velocity.y < 0 && !isGrounded() && !_grabbing && !_dashing);
         }
         else
         {
             _hasDashed = false;
             _hangTimeCounter = _hangTime;
         }
-        
+        _anim.SetBool("isDashing", _dashing);
         _anim.SetBool("isClimbing", _grabbing && !isGrounded());
         _anim.SetBool("isClimbSliding", _grabbing && !isGrounded() && _rb.velocity.y < 0);
     }
@@ -360,5 +360,13 @@ public class PlayerMovement : MonoBehaviour
     
     public bool IsDashing(){
         return _dashing;
+    }
+
+    public void setPos(Transform destination){
+        _rb.transform.position = destination.position;
+    }
+
+    public BoxCollider2D getBoxCollider2D(){
+        return boxCollider;
     }
 }

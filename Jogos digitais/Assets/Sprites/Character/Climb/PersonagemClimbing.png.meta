@@ -107,148 +107,148 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Personagem_Escalada_0
+      name: PersonagemClimbing_0
       rect:
         serializedVersion: 2
         x: 10
         y: 6
         width: 12
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44626306e0211ae4eb355c67ccffec20
-      internalID: -443507248
+      spriteID: ddb360df877121b4abfa14095d9239ed
+      internalID: -1573451554
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Personagem_Escalada_1
+      name: PersonagemClimbing_1
       rect:
         serializedVersion: 2
         x: 42
         y: 6
         width: 12
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 670f4ae3be474f24686f0ef60540a2b1
-      internalID: -1168348165
+      spriteID: 3a1a4b889e9872c49b63e757fbcbb792
+      internalID: 527840028
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Personagem_Escalada_2
+      name: PersonagemClimbing_2
       rect:
         serializedVersion: 2
         x: 74
         y: 7
         width: 12
         height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5487667bbb388d04fb47d322e3b7e0e5
-      internalID: -1856898345
+      spriteID: bd9c58f98b8f6554887c5820c315daa6
+      internalID: 1201075947
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Personagem_Escalada_3
+      name: PersonagemClimbing_3
       rect:
         serializedVersion: 2
         x: 105
         y: 6
         width: 12
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 36a731c425a0e2e4994c0fb65934f148
-      internalID: 1319677629
+      spriteID: 500bbcde0511c604381b23cf034a44b1
+      internalID: -425926410
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Personagem_Escalada_4
+      name: PersonagemClimbing_4
       rect:
         serializedVersion: 2
         x: 136
         y: 6
         width: 12
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5398be4be056844ea8721b5ff02cbfc
-      internalID: -1502401808
+      spriteID: d662bc87f8b650642bd24b9ff347ee83
+      internalID: -328299917
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Personagem_Escalada_5
+      name: PersonagemClimbing_5
       rect:
         serializedVersion: 2
         x: 169
         y: 6
         width: 12
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b60bbe227c15ad34f9570d06a268af43
-      internalID: -391937279
+      spriteID: d5722e682673de54daee4b1a63dfed3f
+      internalID: 688284220
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Personagem_Escalada_6
+      name: PersonagemClimbing_6
       rect:
         serializedVersion: 2
         x: 202
         y: 6
         width: 11
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e464c6b7bd810e34f98cdec505503a06
-      internalID: 920135950
+      spriteID: 9367519777fb64e49aed02ba491f30a6
+      internalID: -859648909
       vertices: []
       indices: 
       edges: []
@@ -264,13 +264,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Personagem_Escalada_0: -443507248
-      Personagem_Escalada_1: -1168348165
-      Personagem_Escalada_2: -1856898345
-      Personagem_Escalada_3: 1319677629
-      Personagem_Escalada_4: -1502401808
-      Personagem_Escalada_5: -391937279
-      Personagem_Escalada_6: 920135950
+      PersonagemClimbing_0: -1573451554
+      PersonagemClimbing_1: 527840028
+      PersonagemClimbing_2: 1201075947
+      PersonagemClimbing_3: -425926410
+      PersonagemClimbing_4: -328299917
+      PersonagemClimbing_5: 688284220
+      PersonagemClimbing_6: -859648909
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
