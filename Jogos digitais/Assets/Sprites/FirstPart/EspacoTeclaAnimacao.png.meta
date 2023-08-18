@@ -1,7 +1,25 @@
 fileFormatVersion: 2
-guid: 18ec2ec7f969f9741ba83c8815b6b8a1
+guid: 88ff06c22b4e8ca41ba8f66e718e56da
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -2607582430610523858
+    second: EspacoTeclaAnimacao_0
+  - first:
+      213: -24268167481033138
+    second: EspacoTeclaAnimacao_1
+  - first:
+      213: -5354951466762563978
+    second: EspacoTeclaAnimacao_2
+  - first:
+      213: 6627418603941584640
+    second: EspacoTeclaAnimacao_3
+  - first:
+      213: -3637404376271982982
+    second: EspacoTeclaAnimacao_4
+  - first:
+      213: 2024767698331494177
+    second: EspacoTeclaAnimacao_5
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -48,7 +66,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 80
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -91,164 +109,131 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Server
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PersonagemClimbing_0
+      name: EspacoTeclaAnimacao_0
       rect:
         serializedVersion: 2
-        x: 10
-        y: 6
-        width: 12
-        height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ddb360df877121b4abfa14095d9239ed
-      internalID: -1573451554
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PersonagemClimbing_1
-      rect:
-        serializedVersion: 2
-        x: 42
-        y: 6
-        width: 12
-        height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3a1a4b889e9872c49b63e757fbcbb792
-      internalID: 527840028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PersonagemClimbing_2
-      rect:
-        serializedVersion: 2
-        x: 74
+        x: 1
         y: 7
-        width: 12
-        height: 15
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 62
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: bd9c58f98b8f6554887c5820c315daa6
-      internalID: 1201075947
+      spriteID: e29f8ec489100dbd0800000000000000
+      internalID: -2607582430610523858
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PersonagemClimbing_3
+      name: EspacoTeclaAnimacao_1
       rect:
         serializedVersion: 2
-        x: 105
+        x: 65
         y: 6
-        width: 12
-        height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 62
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 500bbcde0511c604381b23cf034a44b1
-      internalID: -425926410
+      spriteID: e4e71f1fa38c9aff0800000000000000
+      internalID: -24268167481033138
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PersonagemClimbing_4
+      name: EspacoTeclaAnimacao_2
       rect:
         serializedVersion: 2
-        x: 136
-        y: 6
-        width: 12
-        height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 129
+        y: 5
+        width: 62
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d662bc87f8b650642bd24b9ff347ee83
-      internalID: -328299917
+      spriteID: 67e092243046fa5b0800000000000000
+      internalID: -5354951466762563978
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PersonagemClimbing_5
+      name: EspacoTeclaAnimacao_3
       rect:
         serializedVersion: 2
-        x: 169
-        y: 6
-        width: 12
-        height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 193
+        y: 4
+        width: 62
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d5722e682673de54daee4b1a63dfed3f
-      internalID: 688284220
+      spriteID: 00fd0c15b1259fb50800000000000000
+      internalID: 6627418603941584640
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PersonagemClimbing_6
+      name: EspacoTeclaAnimacao_4
       rect:
         serializedVersion: 2
-        x: 202
-        y: 6
-        width: 11
-        height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 257
+        y: 5
+        width: 62
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9367519777fb64e49aed02ba491f30a6
-      internalID: -859648909
+      spriteID: a7e6bd7ddf7558dc0800000000000000
+      internalID: -3637404376271982982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspacoTeclaAnimacao_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 6
+        width: 62
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127ebb37e7b691c10800000000000000
+      internalID: 2024767698331494177
       vertices: []
       indices: 
       edges: []
@@ -256,7 +241,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -264,13 +249,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      PersonagemClimbing_0: -1573451554
-      PersonagemClimbing_1: 527840028
-      PersonagemClimbing_2: 1201075947
-      PersonagemClimbing_3: -425926410
-      PersonagemClimbing_4: -328299917
-      PersonagemClimbing_5: 688284220
-      PersonagemClimbing_6: -859648909
+      EspacoTeclaAnimacao_0: -2607582430610523858
+      EspacoTeclaAnimacao_1: -24268167481033138
+      EspacoTeclaAnimacao_2: -5354951466762563978
+      EspacoTeclaAnimacao_3: 6627418603941584640
+      EspacoTeclaAnimacao_4: -3637404376271982982
+      EspacoTeclaAnimacao_5: 2024767698331494177
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

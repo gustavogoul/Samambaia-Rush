@@ -19,8 +19,13 @@ public class FirstScene : MonoBehaviour
         keyPressed = GetComponent<AudioSource>();
         if (Input.anyKey)
         {
-            SceneManager.LoadScene("ParteInicial");
-            keyPressed.Play();
+            Invoke("ChangeScene", 1.5f);
         }
+    }
+
+    private void ChangeScene()
+    {
+        keyPressed.Play();
+        SceneManager.LoadScene("ParteInicial");
     }
 }
