@@ -366,6 +366,10 @@ public class PlayerMovement : MonoBehaviour
         _rb.transform.position = destination.position;
     }
 
+    public float getWallCheckRadius(){
+        return _wallCheckRadius;
+    }
+
     public BoxCollider2D getBoxCollider2D(){
         return boxCollider;
     }
