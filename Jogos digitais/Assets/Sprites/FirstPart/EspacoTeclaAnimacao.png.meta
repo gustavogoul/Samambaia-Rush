@@ -116,12 +116,12 @@ TextureImporter:
       name: EspacoTeclaAnimacao_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 7
-        width: 62
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2
+        y: 8
+        width: 60
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -137,12 +137,12 @@ TextureImporter:
       name: EspacoTeclaAnimacao_1
       rect:
         serializedVersion: 2
-        x: 65
-        y: 6
-        width: 62
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 66
+        y: 7
+        width: 60
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -158,12 +158,12 @@ TextureImporter:
       name: EspacoTeclaAnimacao_2
       rect:
         serializedVersion: 2
-        x: 129
-        y: 5
-        width: 62
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 130
+        y: 6
+        width: 60
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -179,12 +179,12 @@ TextureImporter:
       name: EspacoTeclaAnimacao_3
       rect:
         serializedVersion: 2
-        x: 193
-        y: 4
-        width: 62
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 194
+        y: 5
+        width: 60
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -200,12 +200,12 @@ TextureImporter:
       name: EspacoTeclaAnimacao_4
       rect:
         serializedVersion: 2
-        x: 257
-        y: 5
-        width: 62
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 258
+        y: 6
+        width: 60
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -221,12 +221,12 @@ TextureImporter:
       name: EspacoTeclaAnimacao_5
       rect:
         serializedVersion: 2
-        x: 321
-        y: 6
-        width: 62
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 322
+        y: 7
+        width: 60
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -241,7 +241,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: eeb119062dc5d8d40b72cfd0c6fc24b7
     internalID: 0
     vertices: []
     indices: 

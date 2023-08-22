@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 0f127434db72ed1468fdf5d04b102c6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6777729441213107133
+    second: SamambaiaRushPNG_0
+  - first:
+      213: -2405928017263477126
+    second: SamambaiaRushPNG_1
+  - first:
+      213: -6051309047878861556
+    second: SamambaiaRushPNG_2
+  - first:
+      213: 1616849761347627836
+    second: SamambaiaRushPNG_3
+  - first:
+      213: 2334139764496898956
+    second: SamambaiaRushPNG_4
+  - first:
+      213: -2188777291721493309
+    second: SamambaiaRushPNG_5
+  - first:
+      213: -2978673751338608970
+    second: SamambaiaRushPNG_6
+  - first:
+      213: 5984879545110783101
+    second: SamambaiaRushPNG_7
+  - first:
+      213: -7003546369025952090
+    second: SamambaiaRushPNG_8
+  - first:
+      213: 1759856789781547522
+    second: SamambaiaRushPNG_9
+  - first:
+      213: 3181051448559031368
+    second: SamambaiaRushPNG_10
+  - first:
+      213: -8104914527224653382
+    second: SamambaiaRushPNG_11
+  - first:
+      213: -4573803688260465623
+    second: SamambaiaRushPNG_12
+  - first:
+      213: 7991841463740603254
+    second: SamambaiaRushPNG_13
+  - first:
+      213: 1143653778781953354
+    second: SamambaiaRushPNG_14
+  - first:
+      213: -2328966524176000576
+    second: SamambaiaRushPNG_15
+  - first:
+      213: 5487844992992239186
+    second: SamambaiaRushPNG_16
+  - first:
+      213: 5375189807920531526
+    second: SamambaiaRushPNG_17
+  - first:
+      213: -6916464910713453631
+    second: SamambaiaRushPNG_18
+  - first:
+      213: 2984509767400740977
+    second: SamambaiaRushPNG_19
+  - first:
+      213: 1055435442939780381
+    second: SamambaiaRushPNG_20
+  - first:
+      213: 8697452995678408552
+    second: SamambaiaRushPNG_21
+  - first:
+      213: -6418887449520850066
+    second: SamambaiaRushPNG_22
+  - first:
+      213: -7631314115135315489
+    second: SamambaiaRushPNG_23
+  - first:
+      213: 2714535271998110424
+    second: SamambaiaRushPNG_24
+  - first:
+      213: 1887181304806345328
+    second: SamambaiaRushPNG_25
+  - first:
+      213: -7071109972307310085
+    second: SamambaiaRushPNG_26
+  - first:
+      213: -4554442163018638089
+    second: SamambaiaRushPNG_27
+  - first:
+      213: 4090852384513580266
+    second: SamambaiaRushPNG_28
+  - first:
+      213: -3839616781458271273
+    second: SamambaiaRushPNG_29
+  - first:
+      213: -8262420113105635887
+    second: SamambaiaRushPNG_30
+  - first:
+      213: -5532831300585742207
+    second: SamambaiaRushPNG_31
+  - first:
+      213: 8780096858920330904
+    second: SamambaiaRushPNG_32
+  - first:
+      213: 4115239401430378462
+    second: SamambaiaRushPNG_33
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 137
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbc63f44055f0e50800000000000000
+      internalID: 6777729441213107133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 137
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7eb9d7273d6c9ed0800000000000000
+      internalID: -2405928017263477126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 137
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0db21f6b7e650ca0800000000000000
+      internalID: -6051309047878861556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 137
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bec40aa44307610800000000000000
+      internalID: 1616849761347627836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 137
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b93febfb7846020800000000000000
+      internalID: 2334139764496898956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 137
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4bf7a56a6ef91e0800000000000000
+      internalID: -2188777291721493309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 137
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b69ead3100a9a6d0800000000000000
+      internalID: -2978673751338608970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_7
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 137
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7464ddac309e0350800000000000000
+      internalID: 5984879545110783101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 137
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a63b3a0fa76ece90800000000000000
+      internalID: -7003546369025952090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 70
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a0d7a1d644c6810800000000000000
+      internalID: 1759856789781547522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 104
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8445a93407d552c20800000000000000
+      internalID: 3181051448559031368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 104
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab91fdddd2f858f80800000000000000
+      internalID: -8104914527224653382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 104
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c0dd057c59680c0800000000000000
+      internalID: -4573803688260465623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 104
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b1f7bf779b8ee60800000000000000
+      internalID: 7991841463740603254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 37
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4dd45e6d031fdf00800000000000000
+      internalID: 1143653778781953354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_15
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 70
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c996b02949ddafd0800000000000000
+      internalID: -2328966524176000576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 46
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e55bdf1fdb82c40800000000000000
+      internalID: 5487844992992239186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_17
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 70
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648476db6a2889a40800000000000000
+      internalID: 5375189807920531526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 70
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c388770fc7c300a0800000000000000
+      internalID: -6916464910713453631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_19
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 70
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178da9222db1b6920800000000000000
+      internalID: 2984509767400740977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_20
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 70
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d58c381f8a5ae00800000000000000
+      internalID: 1055435442939780381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_21
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 70
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f81122b6f83b870800000000000000
+      internalID: 8697452995678408552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 20
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bb8169fd78be6a0800000000000000
+      internalID: -6418887449520850066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_23
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 10
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd16fe5ae30281690800000000000000
+      internalID: -7631314115135315489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_24
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 35
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da37b99277fba520800000000000000
+      internalID: 2714535271998110424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_25
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 35
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a8db3e56d903a10800000000000000
+      internalID: 1887181304806345328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 31
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf986ecc1fe5edd90800000000000000
+      internalID: -7071109972307310085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_27
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 35
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc5633bbfe5bc0c0800000000000000
+      internalID: -4554442163018638089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_28
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 35
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecdd77c190a5c830800000000000000
+      internalID: 4090852384513580266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 35
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d31d8361e0f6bac0800000000000000
+      internalID: -3839616781458271273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_30
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 6
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5bb4deeacf55d80800000000000000
+      internalID: -8262420113105635887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_31
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 5
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180ac6e0f3f6733b0800000000000000
+      internalID: -5532831300585742207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_32
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 5
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8962871039b29d970800000000000000
+      internalID: 8780096858920330904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushPNG_33
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 5
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7e2ff9e644c1930800000000000000
+      internalID: 4115239401430378462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SamambaiaRushPNG_0: 6777729441213107133
+      SamambaiaRushPNG_1: -2405928017263477126
+      SamambaiaRushPNG_10: 3181051448559031368
+      SamambaiaRushPNG_11: -8104914527224653382
+      SamambaiaRushPNG_12: -4573803688260465623
+      SamambaiaRushPNG_13: 7991841463740603254
+      SamambaiaRushPNG_14: 1143653778781953354
+      SamambaiaRushPNG_15: -2328966524176000576
+      SamambaiaRushPNG_16: 5487844992992239186
+      SamambaiaRushPNG_17: 5375189807920531526
+      SamambaiaRushPNG_18: -6916464910713453631
+      SamambaiaRushPNG_19: 2984509767400740977
+      SamambaiaRushPNG_2: -6051309047878861556
+      SamambaiaRushPNG_20: 1055435442939780381
+      SamambaiaRushPNG_21: 8697452995678408552
+      SamambaiaRushPNG_22: -6418887449520850066
+      SamambaiaRushPNG_23: -7631314115135315489
+      SamambaiaRushPNG_24: 2714535271998110424
+      SamambaiaRushPNG_25: 1887181304806345328
+      SamambaiaRushPNG_26: -7071109972307310085
+      SamambaiaRushPNG_27: -4554442163018638089
+      SamambaiaRushPNG_28: 4090852384513580266
+      SamambaiaRushPNG_29: -3839616781458271273
+      SamambaiaRushPNG_3: 1616849761347627836
+      SamambaiaRushPNG_30: -8262420113105635887
+      SamambaiaRushPNG_31: -5532831300585742207
+      SamambaiaRushPNG_32: 8780096858920330904
+      SamambaiaRushPNG_33: 4115239401430378462
+      SamambaiaRushPNG_4: 2334139764496898956
+      SamambaiaRushPNG_5: -2188777291721493309
+      SamambaiaRushPNG_6: -2978673751338608970
+      SamambaiaRushPNG_7: 5984879545110783101
+      SamambaiaRushPNG_8: -7003546369025952090
+      SamambaiaRushPNG_9: 1759856789781547522
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
