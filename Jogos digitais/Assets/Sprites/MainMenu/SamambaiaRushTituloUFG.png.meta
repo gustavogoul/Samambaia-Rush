@@ -1,0 +1,587 @@
+fileFormatVersion: 2
+guid: 834330ad180fe9847a9da97f1bc45b3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1519098862352337389
+    second: SamambaiaRushTituloUFG_0
+  - first:
+      213: 5263976768659494893
+    second: SamambaiaRushTituloUFG_1
+  - first:
+      213: -4830679772950236941
+    second: SamambaiaRushTituloUFG_2
+  - first:
+      213: 6941907548066807714
+    second: SamambaiaRushTituloUFG_3
+  - first:
+      213: 3064844256730066171
+    second: SamambaiaRushTituloUFG_4
+  - first:
+      213: 7337513176335869191
+    second: SamambaiaRushTituloUFG_5
+  - first:
+      213: -8522969266994607952
+    second: SamambaiaRushTituloUFG_6
+  - first:
+      213: 8899405967470247239
+    second: SamambaiaRushTituloUFG_7
+  - first:
+      213: 4201493535055188172
+    second: SamambaiaRushTituloUFG_8
+  - first:
+      213: -1192905070578230063
+    second: SamambaiaRushTituloUFG_9
+  - first:
+      213: 6194194243543844705
+    second: SamambaiaRushTituloUFG_10
+  - first:
+      213: 2845734956180863565
+    second: SamambaiaRushTituloUFG_11
+  - first:
+      213: 7209286185436027770
+    second: SamambaiaRushTituloUFG_12
+  - first:
+      213: 3590104755337512098
+    second: SamambaiaRushTituloUFG_13
+  - first:
+      213: -2141756539007822180
+    second: SamambaiaRushTituloUFG_14
+  - first:
+      213: -670962353901741385
+    second: SamambaiaRushTituloUFG_15
+  - first:
+      213: 802500609646483331
+    second: SamambaiaRushTituloUFG_16
+  - first:
+      213: 8450934830694291294
+    second: SamambaiaRushTituloUFG_17
+  - first:
+      213: 8986574640378413264
+    second: SamambaiaRushTituloUFG_18
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SamambaiaRushTituloUFG_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 137
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de90635ed5ce41510800000000000000
+      internalID: 1519098862352337389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushTituloUFG_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 137
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de79bd93bf66d0940800000000000000
+      internalID: 5263976768659494893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushTituloUFG_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 137
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0f2ad275af5fcb0800000000000000
+      internalID: -4830679772950236941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushTituloUFG_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 137
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afff1a922c965060800000000000000
+      internalID: 6941907548066807714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushTituloUFG_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 137
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcaa4efc93888a20800000000000000
+      internalID: 3064844256730066171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushTituloUFG_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 137
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7056f3aab5514d560800000000000000
+      internalID: 7337513176335869191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushTituloUFG_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 137
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b80739bb9458b980800000000000000
+      internalID: -8522969266994607952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushTituloUFG_7
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 137
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d3e0b839a018b70800000000000000
+      internalID: 8899405967470247239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushTituloUFG_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 137
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc090131c14be4a30800000000000000
+      internalID: 4201493535055188172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushTituloUFG_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 70
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc1c699823f17fe0800000000000000
+      internalID: -1192905070578230063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushTituloUFG_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 104
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1674334a8d236f550800000000000000
+      internalID: 6194194243543844705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushTituloUFG_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 104
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a72148dd41e7720800000000000000
+      internalID: 2845734956180863565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushTituloUFG_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 104
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b9b07d6978c0460800000000000000
+      internalID: 7209286185436027770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushTituloUFG_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 104
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a44558f04d92d130800000000000000
+      internalID: 3590104755337512098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushTituloUFG_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 37
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96911976c3f642e0800000000000000
+      internalID: -2141756539007822180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushTituloUFG_15
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 70
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bad6064b4340b6f0800000000000000
+      internalID: -670962353901741385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushTituloUFG_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 46
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387530a7d0e032b00800000000000000
+      internalID: 802500609646483331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushTituloUFG_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 20
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57528b1470c74570800000000000000
+      internalID: 8450934830694291294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamambaiaRushTituloUFG_18
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 10
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d00a43c50ab6bc70800000000000000
+      internalID: 8986574640378413264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SamambaiaRushTituloUFG_0: 1519098862352337389
+      SamambaiaRushTituloUFG_1: 5263976768659494893
+      SamambaiaRushTituloUFG_10: 6194194243543844705
+      SamambaiaRushTituloUFG_11: 2845734956180863565
+      SamambaiaRushTituloUFG_12: 7209286185436027770
+      SamambaiaRushTituloUFG_13: 3590104755337512098
+      SamambaiaRushTituloUFG_14: -2141756539007822180
+      SamambaiaRushTituloUFG_15: -670962353901741385
+      SamambaiaRushTituloUFG_16: 802500609646483331
+      SamambaiaRushTituloUFG_17: 8450934830694291294
+      SamambaiaRushTituloUFG_18: 8986574640378413264
+      SamambaiaRushTituloUFG_2: -4830679772950236941
+      SamambaiaRushTituloUFG_3: 6941907548066807714
+      SamambaiaRushTituloUFG_4: 3064844256730066171
+      SamambaiaRushTituloUFG_5: 7337513176335869191
+      SamambaiaRushTituloUFG_6: -8522969266994607952
+      SamambaiaRushTituloUFG_7: 8899405967470247239
+      SamambaiaRushTituloUFG_8: 4201493535055188172
+      SamambaiaRushTituloUFG_9: -1192905070578230063
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
