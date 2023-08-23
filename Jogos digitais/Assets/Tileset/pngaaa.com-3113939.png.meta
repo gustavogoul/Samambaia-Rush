@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pngaaa.com-3113939_0: -4218210084231829246
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

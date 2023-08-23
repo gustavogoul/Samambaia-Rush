@@ -5,20 +5,22 @@ using UnityEngine.SceneManagement;
 
 public class transicao : MonoBehaviour
 {
-    [SerializeField]
-    private string nomeProximaFase;
+    [SerializeField] private string sceneTargetName;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        // Verifica se o objeto que colidiu é o jogador
+        // Verifica se o objeto que colidiu ï¿½ o jogador
         if (collision.CompareTag("Player"))
         {
-            IrProximaFase();
+            GotoScene();
         }
     }
 
-    private void IrProximaFase()
+    private void GotoScene() 
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        if (!string.IsNullOrEmpty(sceneTargetName))
+        {
+            SceneManager.LoadScene(sceneTargetName);
+        }
     }
 }
